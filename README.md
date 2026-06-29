@@ -29,8 +29,8 @@ Real-time Bitcoin analytics dashboard with 5 advanced algorithmic trading strate
 **1. Clone the repo**
 
 ```
-git clone https://github.com/brendannorris-dot/bit_alpha.git
-cd bitcoin_alpha
+git clone https://github.com/brendannorris-dot/bitcoin-algorithmic-trading
+cd bitcoin-algorithmic-trading
 ```
 
 **2. Install dependencies**
